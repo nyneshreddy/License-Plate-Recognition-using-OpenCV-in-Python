@@ -3,4 +3,8 @@ License Plate Recognition system is useful to automatically detect the license n
 
 This Project is not copyrighted.
 
+Project done by:-
 
+NYNESH REDDY GUJJULA   https://www.linkedin.com/in/nynesh-reddy/
+DHARMA TEJA BONDA      https://www.linkedin.com/in/dharma-teja-bonda/
+NISHRITH SAINI         https://www.linkedin.com/in/nishrith-saini/
